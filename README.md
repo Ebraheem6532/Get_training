@@ -1,3 +1,3 @@
-# Get_training
+# Git_training
 
 ## Project Notes
